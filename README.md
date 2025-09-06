@@ -1,4 +1,4 @@
-Browser History Management
+Browser History Management: 
 This project is a command-line application developed in C++ as a training course to demonstrate the practical application of Data Structures and Algorithms (DSA). It was designed to bridge the gap between theoretical knowledge and real-world software design.
 
 ##Key Features:
